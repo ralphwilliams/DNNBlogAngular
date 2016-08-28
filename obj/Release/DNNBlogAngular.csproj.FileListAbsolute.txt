@@ -1,0 +1,4 @@
+C:\Users\consu\OneDrive\Open Source\DNN\DNNBlogAngular\Website\bin\DNNBlogAngular.dll
+C:\Users\consu\OneDrive\Open Source\DNN\DNNBlogAngular\Website\bin\DNNBlogAngular.pdb
+C:\Users\consu\OneDrive\Open Source\DNN\DNNBlogAngular\Website\DesktopModules\DNNBlogAngular\obj\Release\DNNBlogAngular.dll
+C:\Users\consu\OneDrive\Open Source\DNN\DNNBlogAngular\Website\DesktopModules\DNNBlogAngular\obj\Release\DNNBlogAngular.pdb
